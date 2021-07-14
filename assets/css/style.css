@@ -1,8 +1,6 @@
 /**
-* Template Name: iPortfolio - v1.5.1
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+ * Template Name: Ankit Kadam Portfolio
+  * Author: Mr. Ankit Kadam
 */
 
 /*--------------------------------------------------------------
@@ -211,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg1.jpg") top center;
+  background: url("../img/hero-bg5.png") top center;
   background-size: cover;
 }
 
